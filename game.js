@@ -1,8 +1,5 @@
 var game = new Phaser.Game(400, 490, Phaser.AUTO, 'game');
 
-
-console.log("game.js loaded");
-
 var mainState = {
 
     preload: function() { 
